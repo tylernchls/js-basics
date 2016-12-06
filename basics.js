@@ -41,6 +41,8 @@ console.log("Hello, my name is " + name);
  * (there are 6 different data types);
  */
 
+ var dataTypes = ["Tyler", 6, true, [], {}, null, undefined];
+
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
  * It should also have a name attribute with the value of 'Spot'
