@@ -7,6 +7,13 @@ var myName = "Tyler Nichols";
  * as well as an `age` (number);
  */
 
+var person = {
+
+  name: "Tyler Nichols",
+  age: 28
+}
+
+
 
 
 /* Create a variable called `canDrive`,
